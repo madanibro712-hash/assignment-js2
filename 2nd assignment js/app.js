@@ -78,3 +78,7 @@ var cities=["karachi","lahore","hyderabad","peshawar"];
 var selectedcities= cities.slice(2,4);
 
 console.log(selectedcities)
+
+var arr = ["this", "is", "my"];
+var str  = arr.join(" ");   
+console.log(str);
